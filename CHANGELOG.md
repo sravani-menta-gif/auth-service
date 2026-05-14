@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/sravani-menta-gif/auth-service/compare/v1.0.0...v1.0.1) (2026-05-14)
+
+
+### Bug Fixes
+
+* minor update ([be2345f](https://github.com/sravani-menta-gif/auth-service/commit/be2345fc23f871b3000150bf23d64fd2491848a7))
+
 # 1.0.0 (2026-05-14)
 
 
