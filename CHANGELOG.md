@@ -3,6 +3,13 @@
 
 ### Features
 
+* initial release ([3553aa8](https://github.com/sravani-menta-gif/auth-service/commit/3553aa8ec117595d5d05a6ea691bf2fd80cdfaa2))
+
+# 1.0.0 (2026-05-14)
+
+
+### Features
+
 * Adds .releaserc.json ([04e53a7](https://github.com/sravani-menta-gif/auth-service/commit/04e53a75b222f12ea4841d7b81beee5a7ba4eb7b))
 * Adds CI workflow for creating releases ([f99c220](https://github.com/sravani-menta-gif/auth-service/commit/f99c2204c0bbb254ea17d4ee7ef772991df22685))
 * Adds image build workflow ([17823ba](https://github.com/sravani-menta-gif/auth-service/commit/17823ba09f7dcaedad0fd57efe496f4adc7ab585))
