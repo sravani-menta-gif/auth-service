@@ -21,7 +21,7 @@ jobs:
           fetch-depth: 0
           fetch-tags: true
 
-      - name: Fetch all tags
+      - name: Fetch all tags2
         run: git fetch --force --tags
 
       - name: Setup Node.js
